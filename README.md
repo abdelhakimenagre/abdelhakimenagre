@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a developer passionate about building practical, clean, and efficient web applications.  
 I work mainly with **PHP**, **JavaScript**, **SQL**, and modern web technologies.
@@ -17,7 +17,7 @@ I enjoy creating projects that solve real problems, improve productivity, and he
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
