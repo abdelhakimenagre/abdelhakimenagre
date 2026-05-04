@@ -27,7 +27,7 @@ I enjoy creating projects that solve real problems, improve productivity, and he
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![WebForms](https://img.shields.io/badge/ASP.NET_Web_Forms-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![WinForms](https://img.shields.io/badge/ASP.NET_Win_Forms-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
