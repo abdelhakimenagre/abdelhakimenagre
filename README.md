@@ -34,6 +34,7 @@ A quote website built with **PHP** and **SQL**.
 
 ```txt
 Technologies: PHP, SQL, HTML, CSS
+```
 
 ## Connect With Me
 
