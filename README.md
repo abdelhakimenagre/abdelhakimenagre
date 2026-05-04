@@ -6,9 +6,11 @@
 
 ## About Me
 
-I am **Abdlhakim ENAGRE**, a developer passionate about building practical, clean, and efficient web applications.
+I'm **Abdlhakim ENAGRE**, a full‑stack developer focused on backend systems, automation, and enterprise web applications.  
+My core stack includes **Java (Spring Boot)**, **C# (WebForms)**, and powerful automation tools like **n8n** and **Selenium**.
 
-I work mainly with **PHP**, **JavaScript**, **SQL**, and modern web technologies.
+I enjoy designing workflows that save time, building robust APIs, and writing clean code that stands the test of time.  
+Whether it's automating repetitive tasks, crafting a backend service, or modernizing legacy WebForms apps – I'm up for the challenge.
 
 I enjoy creating projects that solve real problems, improve productivity, and help users interact with digital tools in a simple way.
 
@@ -23,6 +25,11 @@ I enjoy creating projects that solve real problems, improve productivity, and he
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![WebForms](https://img.shields.io/badge/ASP.NET_Web_Forms-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
 ---
 
@@ -33,7 +40,7 @@ I enjoy creating projects that solve real problems, improve productivity, and he
 A quote website built with **PHP** and **SQL**.
 
 ```txt
-Technologies: PHP, SQL, HTML, CSS
+Technologies: PHP, SQL, HTML, CSS , C#, ASP.NET WebForms, .NET Framework, SQL Server
 ```
 
 ## Connect With Me
