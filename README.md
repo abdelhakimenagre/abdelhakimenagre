@@ -1,4 +1,4 @@
-# Hi, I'm Abdelhakim Enagre
+# Hi, I'm Abdlhakim ENAGRE
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a developer passionate about building practical, clean, and efficient web applications.  
+I am **Abdlhakim ENAGRE**, a developer passionate about building practical, clean, and efficient web applications.  
 I work mainly with **PHP**, **JavaScript**, **SQL**, and modern web technologies.
 
 I enjoy creating projects that solve real problems, improve productivity, and help users interact with digital tools in a simple way.
@@ -41,3 +41,29 @@ A quote website built with **PHP** and **SQL**.
 
 ```txt
 Technologies: PHP, SQL, HTML, CSS
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/abdelhakimenagre" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-abdelhakimenagre-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdelhakim-ngare-091a891a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdlhakim%20ENAGRE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/abdelllhakim/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-abdelllhakim-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.facebook.com/fax.coy.1" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-fax.coy.1-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://x.com/AbdoEnagre" target="_blank">
+  <img src="https://img.shields.io/badge/X-AbdoEnagre-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+</div>
